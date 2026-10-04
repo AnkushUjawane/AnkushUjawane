@@ -11,7 +11,8 @@
 </div>
 
 ## Achievements
-[![Meshery Playground badge](<div><a href="https://cloud.layer5.io/user/06db8197-a333-41cd-be62-e7f8ecdac2e6?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>)](https://badges.layer5.io)
+Meshery Playground badge
+<div><a href="https://cloud.layer5.io/user/06db8197-a333-41cd-be62-e7f8ecdac2e6?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>)]
 
 <h2>Open-source toolbox</h2>
 
@@ -26,12 +27,12 @@
 
 <table width="100%">
 <tr>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>57%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>14%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>14%</sub></td>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>9%</sub></td>
-<td width="17%" align="center"><strong>Shell</strong><br /><sub>4%</sub></td>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>2%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong></td>
+<td width="17%" align="center"><strong>Python</strong></td>
+<td width="17%" align="center"><strong>CSS</strong></td>
+<td width="17%" align="center"><strong>ReactJs</strong></td>
+<td width="17%" align="center"><strong>Shell</strong></td>
+<td width="17%" align="center"><strong>HTML</strong></td>
 </tr>
 </table>
 
@@ -82,4 +83,3 @@
   <img src="https://www.gitskins.com/api/section/social?username=ankushujawane&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F149705693%3Fu%3D4dcee8571e541332bc21ae225d652f776557eeea%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Ankush Ujawane community links" />
 </picture></p>
 <p align="center"><a href="https://github.com/ankushujawane">GitHub</a> &nbsp;·&nbsp; <a href="https://ankushujawane.me/">Website</a></p>
-<p align="center"><sub>Ankush Ujawane · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
