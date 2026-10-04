@@ -10,19 +10,8 @@
 </p>
 </div>
 
-<h2>Why I build in public</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>JavaScript</code> · <code>Python</code> · <code>CSS</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>19 public repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>398 contributions · 121 active days</p></td>
-</tr>
-</table>
-
-<p>Open Source Contributor |
-Web Developer |
-CSE Graduate</p>
+## Achievements
+[![Meshery Playground badge](<div><a href="https://cloud.layer5.io/user/06db8197-a333-41cd-be62-e7f8ecdac2e6?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>)](https://badges.layer5.io)
 
 <h2>Open-source toolbox</h2>
 
